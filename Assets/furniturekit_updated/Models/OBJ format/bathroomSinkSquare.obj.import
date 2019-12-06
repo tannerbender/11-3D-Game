@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bathroomSinkSquare.obj-42d857c6147d2f8f91a33f154e93a8a6.mesh"
+
+[deps]
+
+files=[ "res://.import/bathroomSinkSquare.obj-42d857c6147d2f8f91a33f154e93a8a6.mesh" ]
+
+source_file="res://Assets/furniturekit_updated/Models/OBJ format/bathroomSinkSquare.obj"
+dest_files=[ "res://.import/bathroomSinkSquare.obj-42d857c6147d2f8f91a33f154e93a8a6.mesh", "res://.import/bathroomSinkSquare.obj-42d857c6147d2f8f91a33f154e93a8a6.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

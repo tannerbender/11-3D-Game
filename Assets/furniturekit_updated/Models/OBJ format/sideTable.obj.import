@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/sideTable.obj-7baad397a3c6a62cb3313a4376f08450.mesh"
+
+[deps]
+
+files=[ "res://.import/sideTable.obj-7baad397a3c6a62cb3313a4376f08450.mesh" ]
+
+source_file="res://Assets/furniturekit_updated/Models/OBJ format/sideTable.obj"
+dest_files=[ "res://.import/sideTable.obj-7baad397a3c6a62cb3313a4376f08450.mesh", "res://.import/sideTable.obj-7baad397a3c6a62cb3313a4376f08450.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

@@ -1,0 +1,11 @@
+[gd_scene format=2]
+
+[node name="GameOver" type="Node2D"]
+rotation = -0.00668088
+
+[node name="Label" type="Label" parent="."]
+margin_right = 40.0
+margin_bottom = 14.0
+rect_rotation = 0.284603
+text = "Game Over
+"

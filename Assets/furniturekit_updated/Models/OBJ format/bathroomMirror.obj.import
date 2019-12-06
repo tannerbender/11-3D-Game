@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bathroomMirror.obj-463a01cf7a5347e030f2e3cd75aaf36e.mesh"
+
+[deps]
+
+files=[ "res://.import/bathroomMirror.obj-463a01cf7a5347e030f2e3cd75aaf36e.mesh" ]
+
+source_file="res://Assets/furniturekit_updated/Models/OBJ format/bathroomMirror.obj"
+dest_files=[ "res://.import/bathroomMirror.obj-463a01cf7a5347e030f2e3cd75aaf36e.mesh", "res://.import/bathroomMirror.obj-463a01cf7a5347e030f2e3cd75aaf36e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

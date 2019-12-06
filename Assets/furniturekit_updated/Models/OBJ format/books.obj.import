@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/books.obj-cbb25b5948e343c5941ceca4d81c6f47.mesh"
+
+[deps]
+
+files=[ "res://.import/books.obj-cbb25b5948e343c5941ceca4d81c6f47.mesh" ]
+
+source_file="res://Assets/furniturekit_updated/Models/OBJ format/books.obj"
+dest_files=[ "res://.import/books.obj-cbb25b5948e343c5941ceca4d81c6f47.mesh", "res://.import/books.obj-cbb25b5948e343c5941ceca4d81c6f47.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

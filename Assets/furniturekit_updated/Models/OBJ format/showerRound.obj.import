@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/showerRound.obj-b31da0682b9e309fc89d52e76bad565c.mesh"
+
+[deps]
+
+files=[ "res://.import/showerRound.obj-b31da0682b9e309fc89d52e76bad565c.mesh" ]
+
+source_file="res://Assets/furniturekit_updated/Models/OBJ format/showerRound.obj"
+dest_files=[ "res://.import/showerRound.obj-b31da0682b9e309fc89d52e76bad565c.mesh", "res://.import/showerRound.obj-b31da0682b9e309fc89d52e76bad565c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bookcaseClosedWide.obj-877837a1463d550745bb3d139dbf777f.mesh"
+
+[deps]
+
+files=[ "res://.import/bookcaseClosedWide.obj-877837a1463d550745bb3d139dbf777f.mesh" ]
+
+source_file="res://Assets/furniturekit_updated/Models/OBJ format/bookcaseClosedWide.obj"
+dest_files=[ "res://.import/bookcaseClosedWide.obj-877837a1463d550745bb3d139dbf777f.mesh", "res://.import/bookcaseClosedWide.obj-877837a1463d550745bb3d139dbf777f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

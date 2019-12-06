@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/hoodModern.obj-0aee2921760e8e2719694887c5619989.mesh"
+
+[deps]
+
+files=[ "res://.import/hoodModern.obj-0aee2921760e8e2719694887c5619989.mesh" ]
+
+source_file="res://Assets/furniturekit_updated/Models/OBJ format/hoodModern.obj"
+dest_files=[ "res://.import/hoodModern.obj-0aee2921760e8e2719694887c5619989.mesh", "res://.import/hoodModern.obj-0aee2921760e8e2719694887c5619989.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

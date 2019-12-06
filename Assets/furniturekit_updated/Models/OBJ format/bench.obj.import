@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bench.obj-5d91e57cf0c760924939120cb0e0b1b2.mesh"
+
+[deps]
+
+files=[ "res://.import/bench.obj-5d91e57cf0c760924939120cb0e0b1b2.mesh" ]
+
+source_file="res://Assets/furniturekit_updated/Models/OBJ format/bench.obj"
+dest_files=[ "res://.import/bench.obj-5d91e57cf0c760924939120cb0e0b1b2.mesh", "res://.import/bench.obj-5d91e57cf0c760924939120cb0e0b1b2.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

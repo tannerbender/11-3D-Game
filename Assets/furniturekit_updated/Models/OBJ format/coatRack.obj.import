@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/coatRack.obj-678945a256d69ede6b841ec6bb0a8740.mesh"
+
+[deps]
+
+files=[ "res://.import/coatRack.obj-678945a256d69ede6b841ec6bb0a8740.mesh" ]
+
+source_file="res://Assets/furniturekit_updated/Models/OBJ format/coatRack.obj"
+dest_files=[ "res://.import/coatRack.obj-678945a256d69ede6b841ec6bb0a8740.mesh", "res://.import/coatRack.obj-678945a256d69ede6b841ec6bb0a8740.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

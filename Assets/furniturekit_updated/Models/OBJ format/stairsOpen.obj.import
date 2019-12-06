@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/stairsOpen.obj-e2c972776277b1151da55ca31b3c124d.mesh"
+
+[deps]
+
+files=[ "res://.import/stairsOpen.obj-e2c972776277b1151da55ca31b3c124d.mesh" ]
+
+source_file="res://Assets/furniturekit_updated/Models/OBJ format/stairsOpen.obj"
+dest_files=[ "res://.import/stairsOpen.obj-e2c972776277b1151da55ca31b3c124d.mesh", "res://.import/stairsOpen.obj-e2c972776277b1151da55ca31b3c124d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

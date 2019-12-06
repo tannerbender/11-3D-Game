@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/computerKeyboard.obj-7c3284f5cb9daa1590cb1a440c43c017.mesh"
+
+[deps]
+
+files=[ "res://.import/computerKeyboard.obj-7c3284f5cb9daa1590cb1a440c43c017.mesh" ]
+
+source_file="res://Assets/furniturekit_updated/Models/OBJ format/computerKeyboard.obj"
+dest_files=[ "res://.import/computerKeyboard.obj-7c3284f5cb9daa1590cb1a440c43c017.mesh", "res://.import/computerKeyboard.obj-7c3284f5cb9daa1590cb1a440c43c017.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

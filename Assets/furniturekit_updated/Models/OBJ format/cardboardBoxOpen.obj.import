@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cardboardBoxOpen.obj-2921acce652b4e4b3681f783e5da8012.mesh"
+
+[deps]
+
+files=[ "res://.import/cardboardBoxOpen.obj-2921acce652b4e4b3681f783e5da8012.mesh" ]
+
+source_file="res://Assets/furniturekit_updated/Models/OBJ format/cardboardBoxOpen.obj"
+dest_files=[ "res://.import/cardboardBoxOpen.obj-2921acce652b4e4b3681f783e5da8012.mesh", "res://.import/cardboardBoxOpen.obj-2921acce652b4e4b3681f783e5da8012.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

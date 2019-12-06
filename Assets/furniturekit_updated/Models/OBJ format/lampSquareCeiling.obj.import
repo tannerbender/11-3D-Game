@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/lampSquareCeiling.obj-db0858716c6067a66f04c4b805b4911e.mesh"
+
+[deps]
+
+files=[ "res://.import/lampSquareCeiling.obj-db0858716c6067a66f04c4b805b4911e.mesh" ]
+
+source_file="res://Assets/furniturekit_updated/Models/OBJ format/lampSquareCeiling.obj"
+dest_files=[ "res://.import/lampSquareCeiling.obj-db0858716c6067a66f04c4b805b4911e.mesh", "res://.import/lampSquareCeiling.obj-db0858716c6067a66f04c4b805b4911e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

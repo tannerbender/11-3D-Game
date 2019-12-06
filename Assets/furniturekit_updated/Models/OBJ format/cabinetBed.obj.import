@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cabinetBed.obj-c4cf47dd2be4e79909c2e3aca50b1a28.mesh"
+
+[deps]
+
+files=[ "res://.import/cabinetBed.obj-c4cf47dd2be4e79909c2e3aca50b1a28.mesh" ]
+
+source_file="res://Assets/furniturekit_updated/Models/OBJ format/cabinetBed.obj"
+dest_files=[ "res://.import/cabinetBed.obj-c4cf47dd2be4e79909c2e3aca50b1a28.mesh", "res://.import/cabinetBed.obj-c4cf47dd2be4e79909c2e3aca50b1a28.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

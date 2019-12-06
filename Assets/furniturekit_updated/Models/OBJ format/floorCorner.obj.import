@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/floorCorner.obj-cd503afa3f4c2e8b66bab5a9ca547b16.mesh"
+
+[deps]
+
+files=[ "res://.import/floorCorner.obj-cd503afa3f4c2e8b66bab5a9ca547b16.mesh" ]
+
+source_file="res://Assets/furniturekit_updated/Models/OBJ format/floorCorner.obj"
+dest_files=[ "res://.import/floorCorner.obj-cd503afa3f4c2e8b66bab5a9ca547b16.mesh", "res://.import/floorCorner.obj-cd503afa3f4c2e8b66bab5a9ca547b16.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

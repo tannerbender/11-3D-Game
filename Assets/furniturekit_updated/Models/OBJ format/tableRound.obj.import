@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/tableRound.obj-5763111b38f810efcb05e6e2b4e6aff4.mesh"
+
+[deps]
+
+files=[ "res://.import/tableRound.obj-5763111b38f810efcb05e6e2b4e6aff4.mesh" ]
+
+source_file="res://Assets/furniturekit_updated/Models/OBJ format/tableRound.obj"
+dest_files=[ "res://.import/tableRound.obj-5763111b38f810efcb05e6e2b4e6aff4.mesh", "res://.import/tableRound.obj-5763111b38f810efcb05e6e2b4e6aff4.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

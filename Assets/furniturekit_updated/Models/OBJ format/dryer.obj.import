@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/dryer.obj-3646d87b54207fd505d36dd37498b3aa.mesh"
+
+[deps]
+
+files=[ "res://.import/dryer.obj-3646d87b54207fd505d36dd37498b3aa.mesh" ]
+
+source_file="res://Assets/furniturekit_updated/Models/OBJ format/dryer.obj"
+dest_files=[ "res://.import/dryer.obj-3646d87b54207fd505d36dd37498b3aa.mesh", "res://.import/dryer.obj-3646d87b54207fd505d36dd37498b3aa.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

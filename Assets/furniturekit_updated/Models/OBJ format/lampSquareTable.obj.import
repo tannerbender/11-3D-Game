@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/lampSquareTable.obj-942b2c7477ebaec3aae33bd6576b2e0f.mesh"
+
+[deps]
+
+files=[ "res://.import/lampSquareTable.obj-942b2c7477ebaec3aae33bd6576b2e0f.mesh" ]
+
+source_file="res://Assets/furniturekit_updated/Models/OBJ format/lampSquareTable.obj"
+dest_files=[ "res://.import/lampSquareTable.obj-942b2c7477ebaec3aae33bd6576b2e0f.mesh", "res://.import/lampSquareTable.obj-942b2c7477ebaec3aae33bd6576b2e0f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

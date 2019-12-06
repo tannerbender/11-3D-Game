@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/pillowBlueLong.obj-40dc1d358e347d05d50ec840dae44af1.mesh"
+
+[deps]
+
+files=[ "res://.import/pillowBlueLong.obj-40dc1d358e347d05d50ec840dae44af1.mesh" ]
+
+source_file="res://Assets/furniturekit_updated/Models/OBJ format/pillowBlueLong.obj"
+dest_files=[ "res://.import/pillowBlueLong.obj-40dc1d358e347d05d50ec840dae44af1.mesh", "res://.import/pillowBlueLong.obj-40dc1d358e347d05d50ec840dae44af1.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

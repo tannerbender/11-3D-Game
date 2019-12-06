@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/chairRounded.obj-b71c2917a4498de42a8b221c666040bb.mesh"
+
+[deps]
+
+files=[ "res://.import/chairRounded.obj-b71c2917a4498de42a8b221c666040bb.mesh" ]
+
+source_file="res://Assets/furniturekit_updated/Models/OBJ format/chairRounded.obj"
+dest_files=[ "res://.import/chairRounded.obj-b71c2917a4498de42a8b221c666040bb.mesh", "res://.import/chairRounded.obj-b71c2917a4498de42a8b221c666040bb.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

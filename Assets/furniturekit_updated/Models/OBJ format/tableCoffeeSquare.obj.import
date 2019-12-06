@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/tableCoffeeSquare.obj-745c4f72fd4280676cc54fc6056b6f28.mesh"
+
+[deps]
+
+files=[ "res://.import/tableCoffeeSquare.obj-745c4f72fd4280676cc54fc6056b6f28.mesh" ]
+
+source_file="res://Assets/furniturekit_updated/Models/OBJ format/tableCoffeeSquare.obj"
+dest_files=[ "res://.import/tableCoffeeSquare.obj-745c4f72fd4280676cc54fc6056b6f28.mesh", "res://.import/tableCoffeeSquare.obj-745c4f72fd4280676cc54fc6056b6f28.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

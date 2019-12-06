@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bedDouble.obj-7dda91aa85b006fc3a1cd1e97e01f9ed.mesh"
+
+[deps]
+
+files=[ "res://.import/bedDouble.obj-7dda91aa85b006fc3a1cd1e97e01f9ed.mesh" ]
+
+source_file="res://Assets/furniturekit_updated/Models/OBJ format/bedDouble.obj"
+dest_files=[ "res://.import/bedDouble.obj-7dda91aa85b006fc3a1cd1e97e01f9ed.mesh", "res://.import/bedDouble.obj-7dda91aa85b006fc3a1cd1e97e01f9ed.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

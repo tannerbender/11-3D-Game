@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/plantSmall3.obj-beaa2b029f6162386c78827323fa0788.mesh"
+
+[deps]
+
+files=[ "res://.import/plantSmall3.obj-beaa2b029f6162386c78827323fa0788.mesh" ]
+
+source_file="res://Assets/furniturekit_updated/Models/OBJ format/plantSmall3.obj"
+dest_files=[ "res://.import/plantSmall3.obj-beaa2b029f6162386c78827323fa0788.mesh", "res://.import/plantSmall3.obj-beaa2b029f6162386c78827323fa0788.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true
