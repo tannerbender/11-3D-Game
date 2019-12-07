@@ -1,0 +1,36 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Scripts/menu.gd" type="Script" id=1]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+script = ExtResource( 1 )
+
+[node name="ColorRect" type="ColorRect" parent="CanvasLayer"]
+margin_right = 1021.0
+margin_bottom = 595.0
+color = Color( 0.560784, 0.196078, 0.196078, 1 )
+
+[node name="title" type="Label" parent="CanvasLayer"]
+margin_left = 430.501
+margin_top = 231.562
+margin_right = 552.501
+margin_bottom = 245.562
+text = "Random Hole Eater"
+
+[node name="Button" type="Button" parent="CanvasLayer"]
+margin_left = 420.008
+margin_top = 263.36
+margin_right = 564.008
+margin_bottom = 299.36
+text = "Play"
+
+[node name="Button2" type="Button" parent="CanvasLayer"]
+margin_left = 419.066
+margin_top = 312.328
+margin_right = 563.066
+margin_bottom = 348.328
+text = "Quit"
+[connection signal="pressed" from="CanvasLayer/Button" to="CanvasLayer" method="_on_Button_pressed"]
+[connection signal="pressed" from="CanvasLayer/Button2" to="CanvasLayer" method="_on_Button2_pressed"]

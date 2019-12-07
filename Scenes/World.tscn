@@ -27,7 +27,7 @@ autostart = true
 transform = Transform( 1, 0, 0, 0, 0.573576, 0.819152, 0, -0.819152, 0.573576, 0, 5, 5 )
 
 [node name="ground" type="CSGBox" parent="."]
-transform = Transform( 2, 0, 0, 0, 1, 0, 0, 0, 2, 0, 0, 0 )
+transform = Transform( 2, 0, 0, 0, 1, 0, 0, 0, 2, -0.805961, 0.263356, -0.433303 )
 use_collision = true
 width = 40.0
 height = 0.2
@@ -48,8 +48,19 @@ script = ExtResource( 5 )
 [node name="Chair" parent="Stuff" instance=ExtResource( 6 )]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.724897, 0.434625, 0.451654 )
 
+[node name="Chair2" parent="Stuff" instance=ExtResource( 6 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -2.30268, 0.391825, 0.451654 )
+
+[node name="Chair3" parent="Stuff" instance=ExtResource( 6 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -1.41489, 0.524583, 1.27238 )
+
 [node name="Sink" parent="Stuff" instance=ExtResource( 7 )]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.811827, 0.400901, 0 )
+points = 200
+increase_size = 0.8
+
+[node name="Sink2" parent="Stuff" instance=ExtResource( 7 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.116915, 0.400901, -1.35065 )
 points = 200
 increase_size = 0.8
 
